@@ -1,6 +1,6 @@
 # Write a program to print string
 
-## 0101-Print a String - Write a program which print below outout when program run/executed.
+## 0101-Print a String - Write a program which print below outout when program run/executed...
 Test Data
 String: Rudra IT Hub
 
